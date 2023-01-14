@@ -9,7 +9,8 @@ my-job-api is a Node.js application that provides an API for job postings.
 ## Installation
 Clone the repository and install the dependencies: 
 ```bash 
-git clone https://github.com/username/my-job-api.git 
+git clone https://github.com/Raul-code1/task-manager-v1-api
+
 cd my-job-api 
 npm install 
 ``` 

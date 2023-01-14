@@ -46,10 +46,10 @@ cd task-manager-backend
 npm install 
 ``` 
 Then create a `.env` file with your environment variables and start the server:   
--MONGO_URI
--PORT
--JWT_SECRET
--JWT_EXPIRE
+-MONGO_URI  
+-PORT  
+-JWT_SECRET  
+-JWT_EXPIRE  
 ```bash 
 npm start 
 ``` 

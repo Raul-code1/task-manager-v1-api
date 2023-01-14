@@ -1,7 +1,7 @@
 
-# my-job-api
+# Task-manager-api
 
-my-job-api is a Node.js application that provides an API for job postings. 
+Task-manager-api is a Node.js application that provides an API for board with tasks  managment. 
 
 ## Version
 1.0.0

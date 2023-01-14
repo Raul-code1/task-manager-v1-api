@@ -45,11 +45,11 @@ git clone https://github.com/Raul-code1/task-manager-v1-api.git
 cd task-manager-backend 
 npm install 
 ``` 
-Then create a `.env` file with your environment variables and start the server: 
-MONGO_URI
-PORT
-JWT_SECRET
-JWT_EXPIRE
+Then create a `.env` file with your environment variables and start the server:   
+-MONGO_URI
+-PORT
+-JWT_SECRET
+-JWT_EXPIRE
 ```bash 
 npm start 
 ``` 

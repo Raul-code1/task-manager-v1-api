@@ -11,7 +11,7 @@ Clone the repository and install the dependencies:
 ```bash 
 git clone https://github.com/Raul-code1/task-manager-v1-api
 
-cd my-job-api 
+
 npm install 
 ``` 
 Start the application: 
@@ -41,11 +41,15 @@ This is the backend for a task manager application. It is built using Node.js, E
 
 To get started, clone the repository and install the dependencies: 
 ```bash 
-git clone https://github.com/<username>/task-manager-backend.git 
+git clone https://github.com/Raul-code1/task-manager-v1-api.git 
 cd task-manager-backend 
 npm install 
 ``` 
 Then create a `.env` file with your environment variables and start the server: 
+MONGO_URI
+PORT
+JWT_SECRET
+JWT_EXPIRE
 ```bash 
 npm start 
 ``` 
